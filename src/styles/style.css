@@ -1,0 +1,109 @@
+.name {
+  position: relative;
+  left: 10px;
+  top: 5px;
+  font-size: 30px;
+  background-color: skyblue;
+  font-family: "Times New Roman", Times, serif;
+  color: snow;
+}
+
+.nav-link {
+  color: skyblue;
+}
+
+.abt {
+  color: skyblue;
+}
+
+body {
+  background-image: url(./Images/pexels-ovan-62693.jpg);
+}
+
+.strawberry {
+  width: 300px;
+  height: 150px;
+  margin-bottom: 10px;
+  
+}
+.strawberry:hover{
+  opacity: 0.7;
+  cursor: pointer;
+  
+}
+
+
+#box1 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 50px 0px;
+ 
+}
+
+#box2 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 70px 0px;
+}
+
+#box3 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 80px 0px;
+ 
+}
+
+.myrow {
+  top: 10px;
+  position: relative;
+  background-color: rgb(224, 223, 223);
+  font-size: 20px;
+}
+
+.lorem1 {
+  color: rgb(26, 26, 26);
+  font-family: sans-serif;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 25px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 1px;
+  left: 50px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.porto{
+  color: rgb(35, 35, 36);
+}
+.porto2{
+  color: skyblue;
+}
+  
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github{
+  background:rgb(26, 26, 26);;
+  color: white;
+}
+
+#foot1{
+  background: rgb(224, 223, 223);
+  border-color: lightslategray;
+  bottom: 0;
+  width: 100%;
+  margin-top: 50px;
+  position: fixed;
+  
+
+}
